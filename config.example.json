@@ -1,0 +1,12 @@
+{
+    "auth": {
+        "username": "",
+        "password": "",
+        "clientID": "",
+        "clientSecret": ""
+    },
+    "blacklist": {
+        "subreddits": [],
+        "users": []
+    }
+}

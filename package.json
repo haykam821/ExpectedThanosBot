@@ -1,0 +1,31 @@
+{
+  "name": "expected-thanos-bot",
+  "version": "1.0.0",
+  "description": "A bot that replies to every r/UnexpectedThanos with r/ExpectedThanos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haykam821/ExpectedThanosBot.git"
+  },
+  "keywords": [
+    "reddit",
+    "bot",
+    "thanos"
+  ],
+  "author": "haykam821",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haykam821/ExpectedThanosBot/issues"
+  },
+  "homepage": "https://github.com/haykam821/ExpectedThanosBot#readme",
+  "devDependencies": {
+    "eslint": "^5.0.1",
+    "eslint-config-haykam": "^1.0.1"
+  },
+  "dependencies": {
+    "snoostream": "^1.0.1"
+  }
+}
